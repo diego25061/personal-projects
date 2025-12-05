@@ -6,6 +6,7 @@ This is a recently made recipes tracker using ReactJS.
 For more details, visit the repository [here](https://github.com/diego25061/recipestracker)
 
 [Web Demo](http://159.65.160.18:3020/)
+Make sure you log in to see all the features, you can do so with the credentials 'carmen', pwd '123' or using the bottom right control panel
 
 ## Terrain generator
 
